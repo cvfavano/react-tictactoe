@@ -1,2 +1,2 @@
 # react-tictactoe
-Take two on TicTacToe
+Take two on TicTacToe. Built with React
